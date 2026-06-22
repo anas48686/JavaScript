@@ -45,10 +45,25 @@
 //""=>false
 //"hitesh"=> true
 
-let someNum=33
+// let someNum=33
 
-let strNum=String(someNum)
-console.log(strNum);
-console.log(typeof strNum);
+// let strNum=String(someNum)
+// console.log(strNum);
+// console.log(typeof strNum);
 
+// ******************* Operations **************
 
+// let value=3
+// let negVal=-value
+// console.log(negVal);
+
+// console.log("1"+2); //12
+// console.log(1+"2"); //12
+// console.log("1"+2+2); //122 string first pe h to aage bhi saara string m convert ho jayega
+// console.log(1+2+"2"); //32 string last pe h to  usse phle wale operations ho jayega then convert hoga
+
+// console.log(+true); //1
+// console.log(+""); //0
+
+// let num1,num2,num3
+// num1=num2=num3=2+2 //not recommended
